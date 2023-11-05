@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sunnyhh
+- 👋 Hi, I’m Sunny Li, a student majoring in Statistics at UCL
 - 👀 I’m interested in photography, coding, and aviation
-- 🌱 I’m currently learning Java (for Advanced Placement exam)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java, Python, and R.
 - 📫 How to reach me: sunnyhh051008@gmail.com
 
 <!---
