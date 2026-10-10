@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sunny Li, a student majoring in Statistics at UCL
+- 👋 Hi, I’m Sunny Li, currently doing Master's in Data Science at Harvard. I previously did Statistics at UCL.
 - 👀 I’m interested in photography, coding, and aviation
 - 🌱 I’m currently learning Java, Python, and R.
 
